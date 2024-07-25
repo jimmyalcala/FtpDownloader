@@ -2,7 +2,7 @@
 This is a simple FTP downloader that downloads files from a FTP server. It is written in C# and uses the FluentFtp library.
 
 ## Usage
-create a JSON file with the following structure:
+create a JSON file with the following structure(ftp_config.json):
 
 ```json
   [
