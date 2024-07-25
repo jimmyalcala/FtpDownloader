@@ -11,14 +11,14 @@ create a JSON file with the following structure:
       "Username": "username",
       "Password": "password",
       "RemoteDirectory": "/remoteFolder/*.txt",
-      "LocalDirectory": "C:\localFolder"
+      "LocalDirectory": "C:\\localFolder"
     },
     {
       "Host" : "host2.com",
       "Username": "username",
       "Password": "password",
       "RemoteDirectory": "/remoteFolder/*",
-      "LocalDirectory": "C:\localfolder"
+      "LocalDirectory": "C:\\localfolder"
     }
 ]
 ```
